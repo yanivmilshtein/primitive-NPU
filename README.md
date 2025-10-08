@@ -49,6 +49,11 @@ RTL Viewer confirms proper hierarchical structure (MAC → ROW → Controller).
 The screenshot below shows the v1 design synthesized into logic blocks:
 
 <img width="1249" height="399" alt="MAC_Element_RTL" src="https://github.com/user-attachments/assets/ab4b6edd-123a-4b6a-b391-d4f148a8d7b3" />
+<img width="792" height="677" alt="ROW_Elemnt_RTL" src="https://github.com/user-attachments/assets/08bc679c-f12c-4218-8c9f-aebd248f2566" />
+<img width="1608" height="816" alt="top_view_RTL" src="https://github.com/user-attachments/assets/32208be6-7659-459d-8aba-46365847ab9a" />
+
+
+
 
 
 ---
